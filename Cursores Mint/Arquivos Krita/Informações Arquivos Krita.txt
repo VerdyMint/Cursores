@@ -1,0 +1,4 @@
+Aqui estão os arquivos Krita (.KRA) dos cursores, caso queira criar suas modificações. 
+Se você publicar uma modificação desses cursores, POR FAVOR me credite como criador original. Grato!
+
+Apenas o Krita pode abrir esses arquivos. Tentar edita-los em sofwares externos podem estragar o arquivo.

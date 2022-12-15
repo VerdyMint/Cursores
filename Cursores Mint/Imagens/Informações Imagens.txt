@@ -1,0 +1,2 @@
+As imagens presentes nessa pasta foram convertidas para .CUR para serem utilizadas como cursores.
+Esses arquivos não funcionam como cursores, caso você queria aplicar os cursores utilize os arquivos .CUR na pasta "Cursores".

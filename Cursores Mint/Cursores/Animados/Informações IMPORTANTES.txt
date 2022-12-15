@@ -1,0 +1,4 @@
+Eu não recomendo você utilizar os cursores animados.
+Os cursores foram criados na resolução 64x64, e os sofwares que foram utilizados para a conversão entre .GIF e .ANI acabaram comprometendo sua resolução e qualidade.
+
+Ou seja, os cursores .ANI estão em baixa resolução e qualidade.

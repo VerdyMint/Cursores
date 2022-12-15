@@ -1,0 +1,26 @@
+Olá! Obrigado por ter baixado os Cursores Personalizados "Mint", feito por VerdyMint.
+
+CONTATO: Utilize a página "Issues" no GitHub para entrar em contato comigo. Lá, irei dar mais informações.
+(Não se irrite se eu não responder)
+
+INFORMAÇÕES:
+
+- Arquivos .CUR e .ANI não podem ser visualizados por meio de softwares nativos, além do Explorador de Arquivos.
+- Os cursores foram feitos no Windows  e para Windows. Não me responzabilizo por danos ou erros em dispositivos Linux ou MacOS ou em versões antigas do Windows
+- A republicação desses cursores só está permitida em certas condições: Eu estar creditado como criador original e com autorização minha.
+
+INSTRUÇÕES:
+
+1 - Baixe a pasta "Cursores Mint" no repositório "Cursores", clicando na seta do lado do botão "Code" e depois em "Dowload Zip".
+2 - Depois, extraia a pasta Zip no local desejado.
+3 -  Abra a pasta extraida, e dentro dela estará outra pasta chamada "Cursores".
+4 - Dentro da pasta, entre em "Estáticos".
+5 - Na pasta "Estáticos" você terá todos os cursores feitos até o momento do seu dowload.
+6 - Copie o caminho da pasta "Estáticos" caso queira.
+7 - Presione o botão Windows e pesquise por "Painel de Controle"
+8 - Dentro do Painel de Controle, localize ou pesquise a opção "Alterar a aparência do ponteiro do mouse"
+9 - Uma caixa irá abrir, e lá você pode selecionar o cursor que quer alterar. 
+10 - Após selecionar o cursor que quer alterar, entre na pasta "Cursores" que você baixou e substitua pelo cursor correspondente.
+
+Disfrute do seu novo cursor personalizado! 
+Caso tenha um comentário ou achado um problema, entre em contato comigo pela página "Issues" no GitHub! 
